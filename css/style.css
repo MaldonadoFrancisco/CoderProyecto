@@ -257,6 +257,9 @@ footer{
     grid-auto-rows: 600px;
     gap: 15px;
 }
+.grid-item p{
+    font-weight: 900;
+}
 .grid-vidrios div img{
     width: 100%;
     height: 100%;
